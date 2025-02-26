@@ -19,7 +19,7 @@ Steps:
 
 
 For the Software part I will drop the necessary links:
-
+Arduino download: https://www.arduino.cc/en/software
 Simulator: https://vrcworld.com/ (or buy using a Steam Account)
 ARDUINO AND LIBRARIES are inside the folder
 
