@@ -1,10 +1,4 @@
-/* 
- * kekse23.de RCUSB
- * Copyright (c) 2019, Nicholas Regitz
- * 
- * Diese Datei ist Lizensiert unter der Creative Commons 4.0 CC BY-NC-SA
- * https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
- */
+
 
 #include <Joystick.h>
 #include "AVRPort23.h"
